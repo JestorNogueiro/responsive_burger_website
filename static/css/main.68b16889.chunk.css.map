@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACC,QAAQ,CACR,SAAS,CACT,qBAAqB,CACrB,8BAED","file":"main.68b16889.chunk.css","sourcesContent":["*{\r\n margin:0;\r\n padding:0;\r\n box-sizing:border-box;\r\n font-family: 'Akaya Telivigala';\r\n  \r\n}"]}
